@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Surendra
+
+## 🚀 About Me
+I'm a front end developer passionate about building things that live on the web.
+## 🛠️ Tech Stack
+- 💻 JavaScript, React
+- 🔧 SQL Server, Redux Toolkit
+- 🎨 HTML, CSS, Tailwind, Chakra UI
+## 📊 GitHub Stats
+![CodeWizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendra-Titus&show_icons=true&theme=tokyonight)
 
 <!--
 **surendra-Titus/surendra-Titus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
